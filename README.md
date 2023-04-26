@@ -130,6 +130,7 @@ plt.show()
 
 #SOBEL X:
 
+![e1](https://user-images.githubusercontent.com/94387019/234628599-07ebb6f9-168d-4390-8bb8-00e63424aee9.png)
 
 
 #SOBEL Y:
